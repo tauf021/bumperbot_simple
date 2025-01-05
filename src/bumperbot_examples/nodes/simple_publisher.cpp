@@ -3,6 +3,8 @@
 #include <sstream>
 
 
+
+// The main function of the node
 int main(int argc, char **argv)
 {
     // Inizialize a ROS node called talker
